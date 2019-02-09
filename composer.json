@@ -1,0 +1,20 @@
+{
+  "name": "victorblanco/laravel-datatomigration",
+  "description": "Database to migration file",
+  "license": "",
+  "require": {
+    "php": ">=7.0",
+    "laravel/framework": "5.6.*",
+  },
+  "autoload": {
+    "psr-4": {
+      "VictorBlanco\\DBtoMigration\\": "src/"
+    }
+  },
+  "repositories": [
+
+  ],
+  "config": {
+  },
+  "minimum-stability": "stable"
+}
