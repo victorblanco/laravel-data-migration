@@ -1,7 +1,6 @@
 {
   "name": "victorblanco/laravel-datatomigration",
   "description": "Database to migration file",
-  "license": "",
   "require": {
     "php": ">=7.0",
     "laravel/framework": "5.6.*"
